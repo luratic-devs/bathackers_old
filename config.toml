@@ -2,7 +2,7 @@
 baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "Kross Hugo"
+theme = "kross-hugo"
 title = "Precarios Técnicos"
 
 # css plugins
