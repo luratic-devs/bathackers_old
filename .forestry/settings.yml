@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: content/english/blog
-  label: Post (en)
+  path: content/blog
+  label: Post
   create: documents
   match: "**/*"
   new_doc_ext: '20191203072044'
@@ -24,8 +24,8 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: content/english/author
-  label: Author (en)
+  path: content/author
+  label: Author
   create: documents
   match: "**/*"
   templates:
