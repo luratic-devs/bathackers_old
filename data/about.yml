@@ -1,0 +1,41 @@
+# work process
+work_process:
+  enable : false
+  title : "Tiki-Data"
+  item:
+  - title : "Investigamos"
+    icon : "images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Optimización"
+    icon : "images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Validamos"
+    icon : "images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+# team
+team:
+  enable: true
+  title : "Equipo"
+  team_member:
+    - title : "Brais Calvo"
+      image : "images/team/member-1.png"
+      designation : "Software Developer && Digital Analyst"
+      
+    - title : "Alfonso Rodríguez"
+      image : "images/team/member-2.png"
+      designation : "Software Developer && Digital Analyst"
+      
+    - title : "Txema Sánchez"
+      image : "images/team/member-3.png"
+      designation : "Software Developer && Digital Analyst"
+
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  title : "Trabajamos con"
+  # clients logo comes from 'data/homepage.yml' file
