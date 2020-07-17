@@ -4,13 +4,27 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: data
+  label: Homepage
+  create: all
+  match: "**/*"
 - type: heading
   label: GTM
 - type: directory
   path: content/portfolio
-  label: GTM Templates
+  label: Templates
   create: all
   match: "**/*"
+- type: heading
+  label: Nosotros
+- type: directory
+  path: content/about
+  label: Nosotros
+  create: documents
+  match: "**/*"
+  templates:
+  - author
 - type: heading
   label: Blog Post
 - type: directory
@@ -22,37 +36,23 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
-- type: directory
-  path: content/author
-  label: Author
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
   label: Data
-- type: directory
-  path: data
-  label: Homepage
-  create: all
-  match: "**/*"
 - type: directory
   path: i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
+  label: Contacto
+- type: directory
+  path: content/contact
+  label: Contacto
+  create: all
+  match: "**/*"
+- type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
