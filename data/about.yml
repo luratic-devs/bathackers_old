@@ -1,19 +1,19 @@
 # work process
 work_process:
-  enable : false
-  title : "Tiki-Data"
+  enable : true
+  title : "El proceso"
   item:
-  - title : "Investigamos"
+  - title : "Tiki-Data"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Una filosofía."
     
-  - title : "Optimización"
+  - title : "Datisfayer"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Somos a la conversión lo que el satisfayer fue a la masturbación femenina"
     
-  - title : "Validamos"
+  - title : "Galegos"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Llevamos tatuado el depende en la piel y todo es cuestión de perspectiva y análisis."
 
 
 # team
