@@ -8,6 +8,7 @@ draft: false
 Nos gustaría haberle puesto un título que apoyase el clickbait como podía ser: 
 - Los siguientes trucos de Google Tag Manager te sorprenderán.
 - Los trucos que Simo Ahava no te quiere contar.
+
 A continuación podrás leer de una forma resumida, escueta y minamalista una serie de trucos y recomendaciones que se tendrán que tener que tener siempre grabadas a fuego antes de cometer cualquier tarea en Google Tag Manager. 
 
 14. Consejos y trucos
