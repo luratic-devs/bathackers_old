@@ -10,7 +10,7 @@ Nos gustaría haberle puesto un título que apoyase el clickbait como podía ser
 1. Los siguientes trucos de Google Tag Manager te sorprenderán.
 2. Los trucos que Simo Ahava no te quiere contar.
 
-A continuación podrás leer de una forma resumida, escueta y minamalista una serie de trucos y recomendaciones que se tendrán que tener que tener siempre grabadas a fuego antes de cometer cualquier tarea en Google Tag Manager.
+A continuación podrás leer de una forma resumida, escueta y minamalista una serie de trucos y recomendaciones que se tendrán que tener siempre grabadas a fuego antes de cometer cualquier tarea en Google Tag Manager. 
 
 #### Consejos y trucos
 
@@ -21,10 +21,7 @@ A continuación podrás leer de una forma resumida, escueta y minamalista una se
 * En el caso de usar Custom HTML se debe encapsular el contenido javascript en una función anónima.
 * Para evitar riesgos con el uso de los Custom HTML, es recomendable envolver el código javascript con un Try-Catch.
 * Si se va a usar un script que haga uso del document.write, por seguridad, marcar la opción en el editor del Custom HTML.
-* Cualquier configuración o valor que se use en más de una etiqueta, trigger o sitio se debe utilizar siempre haciendo uso de una variable de GTM.
-
-  Esto permite actualizar su valor en único sitio y que se aplica a todos los demás.
-
+* Cualquier configuración o valor que se use en más de una etiqueta, trigger o sitio se debe utilizar siempre haciendo uso de una variable de GTM. Esto permite actualizar su valor en único sitio y que se aplica a todos los demás.
 * Añadir notas a las etiquetas, variables y disparadores para documentar su funcionamiento y utilidad.
 * Las condiciones de los triggers deben de ser claras.
 * Cualquier condición que no quede clara y visible a simple vista se debe abordar de otra forma como, por ejemplo, externalizando a un js|lt.
@@ -47,3 +44,7 @@ A continuación podrás leer de una forma resumida, escueta y minamalista una se
 * Hay que relajarse y tomarse un respiro en los procesos tediosos.
 * Si se tienen dudas, siempre preguntar.
 * No debe importarse, ni sobreescribir el contenedor sin consultarnos previamente.
+
+Lo de llegar al final nos honra pero lo más importante es que sigas haciendo camino al andar.
+
+Al final, no lo olvides **#somosdatisfayers**.
