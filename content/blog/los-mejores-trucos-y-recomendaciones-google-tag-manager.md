@@ -5,7 +5,7 @@ image: "/images/portfolio/item-8.png"
 description: ''
 
 ---
-Nos gustaría haberle puesto un título que apoyase el clickbait como podía ser:
+Nos gustaría haberle puesto un título que apoyase el clickbait como podría ser:
 
 1. Los siguientes trucos de Google Tag Manager te sorprenderán.
 2. Los trucos que Simo Ahava no te quiere contar.
@@ -24,7 +24,6 @@ A continuación podrás leer de una forma resumida, escueta y minamalista una se
 * Cualquier configuración o valor que se use en más de una etiqueta, trigger o sitio se debe utilizar siempre haciendo uso de una variable de GTM.
 
   Esto permite actualizar su valor en único sitio y que se aplica a todos los demás.
-
 * Añadir notas a las etiquetas, variables y disparadores para documentar su funcionamiento y utilidad.
 * Las condiciones de los triggers deben de ser claras.
 * Cualquier condición que no quede clara y visible a simple vista se debe abordar de otra forma como, por ejemplo, externalizando a un js|lt.
