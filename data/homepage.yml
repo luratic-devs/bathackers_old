@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Somos <br  <br> BATHackers "
+  title : "Somos <br  <br> Bat Hackers "
 
 # about
 about:
@@ -16,16 +16,16 @@ skill:
   enable : true
   title : "BatHackers Team"
   item:
-    - title : "Data Quality  (La defensa)" #//QA
+    - title : "Data Quality  (Defensa)" #//QA
       progress : "75%"
       color : "#bdecf6"
-    - title : "Visión  técnica (El medio campo)" #//Visión técnica
+    - title : "Visión  técnica (Medio campo)" #//Visión técnica
       progress : "80%"
       color : "#fdb157"
-    - title : "Visión de negocio (La delantera)"  #//Visión de negocio
+    - title : "Visión de negocio (Delantera)"  #//Visión de negocio
       progress : "65%"
       color : "#9473e6" 
-    - title : "CRO (La aficción)"
+    - title : "CRO (Aficción)"
       progress : "65%"
       color : "#ffbcaa"  
 
@@ -93,7 +93,7 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Google Tag Manager Templates"
+  title : "GTM Templates"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
@@ -154,5 +154,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Artículos"
   # blog post comes from "content/blog" folder
