@@ -1,11 +1,10 @@
 ---
-title: "Los principios técnicos de Google Tag Manager"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: ""
-draft: false
----
+title: Los principios técnicos de Google Tag Manager
+date: 2020-07-18T06:14:34+00:00
+image: images/blog/post-5.jpg
+description: ''
 
+---
 Estamos hartos de encontrarnos contenedores de Google Tag Manager como si fuesen baúles de recuerdos, campos atómicos de pruebas o compost inorgánico. 
 Nos duelen los ojos y los corozones cuándo los abrimos. Nos cansa la despreocupación con la que se maneja una herramienta tan potente como peligrosa.
 Solo habrá que leer y grabar a fuego los siguientes principios. 
@@ -33,5 +32,4 @@ Otra opción sería mantener todo lo que consideremos interesante y útil en nue
 Consiste, simplemente, en hacer lo mismo que ellos hacen cada vez que salen al campo: dejar la zona cuando se marchan un poquito mejor que cuando se la encontraron. Si algo se puede mejorar, debe mejorarse.
 
 
-Guardátelo en favoritos, quizás para la próxima que te pases por aquí te encuentres con algún principio nuevo que algún usuario dejó en los comentarios, que adaptamos de Simo Ahava o que pase los filtros de los editores como el *Principio de Austeridad* o *Mariano Rajoy*, tú recorta siempre pero si lo haces que sea con principios. Acuérdate de recortar en lo que no aporte valor y no pensar en el Linkedn y la comisión.  
-
+Guardátelo en favoritos, quizás para la próxima que te pases por aquí te encuentres con algún principio nuevo que algún usuario dejó en los comentarios, que adaptamos de Simo Ahava o que pase los filtros de los editores como el *Principio de Austeridad* o *Mariano Rajoy*, tú recorta siempre pero si lo haces que sea con principios. Acuérdate de recortar en lo que no aporte valor y no pensar en el Linkedn y la comisión.
