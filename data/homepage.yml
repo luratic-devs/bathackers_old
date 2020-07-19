@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Somos <br  <br> Bat Hackers "
+  title : "Somos <br> Bat <br> Hackers "
 
 # about
 about:
@@ -14,7 +14,7 @@ about:
 # skill
 skill:
   enable : true
-  title : "BatHackers Team"
+  title : "Bat hackers Team"
   item:
     - title : "Data Quality  (Defensa)" #//QA
       progress : "75%"
@@ -35,19 +35,19 @@ experience:
   title : "Experiencia 360º"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "B"
+      company : "Better"
+      duration : ""
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "A"
+      company : "Analytics"
+      duration : ""
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "T"
+      company : "Tracking"
+      duration : ""
 
 # education
 education:
