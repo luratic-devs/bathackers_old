@@ -54,7 +54,7 @@ weight = 4
 home = "Inicio"
 logo = ""
 # theme color
-theme_color = "#41228e"
+theme_color = "#000"
 # contact info
 phone = ""
 email = "precariostecnicos@gmail.com"
