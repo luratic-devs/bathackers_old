@@ -30,6 +30,8 @@
   <link rel="icon" type="image/png" sizes="16x16" href="{{ `images/favicon/favicon-16x16.png` | absURL }}">
   <link rel="manifest" href="{{ `images/favicon/site.webmanifest` | absURL }}">
 
+  {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
+
   {{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>

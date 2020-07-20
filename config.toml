@@ -1,9 +1,9 @@
 # default configuration
 baseURL = "https://precariostecnicos.netlify.app/"
-languageCode = "es-es"
+DefaultContentLanguage = "es"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Precarios Técnicos"
+title = "Bat Hackers"
 
 # css plugins
 [[params.plugins.css]]
@@ -49,10 +49,14 @@ name = "Contacto"
 weight = 4
 
 
+
 # default parameters
 [params]
 home = "Inicio"
 logo = "images/logo/logo.png"
+#GTM
+gtm_id = "GTM-5D7RV9H"
+gtm_datalayer = "basic"
 # theme color
 theme_color = "#000"
 bg_primary_color = "#000"
