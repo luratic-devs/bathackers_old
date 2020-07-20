@@ -55,13 +55,14 @@ home = "Inicio"
 logo = "images/logo/logo.png"
 # theme color
 theme_color = "#000"
+bg_primary_color = "#000"
 # contact info
 phone = ""
 email = "precariostecnicos@gmail.com"
 address = "Cargados caralhos"
 # meta description
 author = "Precarios Técnicos"
-description = "Simo Ahava hizo la analítica en siete 7, nosotros exploramos, analizamos y reportamos su creación. "
+description = "Simo Ahava hizo la analítica en siete días, nosotros exploramos, analizamos y reportamos su creación. "
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright

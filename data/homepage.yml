@@ -25,8 +25,8 @@ skill:
     - title : "Visión de negocio (Delantera)"  #//Visión de negocio
       progress : "65%"
       color : "#9473e6" 
-    - title : "CRO (Aficción)"
-      progress : "65%"
+    - title : "CRO (Afición)"
+      progress : "70%"
       color : "#ffbcaa"  
 
 # experience
@@ -94,7 +94,7 @@ service:
 portfolio:
   enable : true
   title : "GTM Templates"
-  item_show : 5
+  item_show : 6
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial

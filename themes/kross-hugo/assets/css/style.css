@@ -35,54 +35,54 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: roboto, sans-serif, serif;
   line-height: 1.2
 }
 
 h1,
 .h1 {
-  font-size: 80px
+  font-size: 5em
 }
 
 @media(max-width:991px) {
 
   h1,
   .h1 {
-    font-size: 65px
+    font-size: 3.75em
   }
 }
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 3.5em
 }
 
 @media(max-width:991px) {
 
   h2,
   .h2 {
-    font-size: 50px
+    font-size: 3.125em
   }
 }
 
 h3,
 .h3 {
-  font-size: 40px
+  font-size: 2.5em
 }
 
 h4,
 .h4 {
-  font-size: 22px
+  font-size: 1.37em
 }
 
 h5,
 .h5 {
-  font-size: 18px
+  font-size: 1.125em
 }
 
 h6,
 .h6 {
-  font-size: 14px
+  font-size: 0.875
 }
 
 .btn {
@@ -223,7 +223,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd
+  font-family: roboto,sans-serif
 }
 
 .bg-cover {
@@ -256,7 +256,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: var(--primary-color) !important
+  background: var(--bg-primary-color) !important
 }
 
 .bg-gray {
@@ -336,11 +336,11 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: roboto,sans-serif
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: roboto,sans-serif
 }
 
 .shadow {
@@ -459,13 +459,13 @@ textarea.form-control {
 }
 
 .hero-area {
-  padding: 250px 0 200px;
+  padding: 12.5em 0 0.3em;
   position: relative
 }
 
 @media(max-width:767px) {
   .hero-area {
-    padding: 200px 0 150px;
+    padding: 9.5em 0 2.5em;
     overflow: hidden
   }
 }
@@ -699,7 +699,7 @@ textarea.form-control {
 }
 
 .footer-section {
-  padding-top: 200px
+  padding-top: 15em
 }
 
 .section-on-footer {
@@ -735,7 +735,7 @@ textarea.form-control {
 blockquote {
   display: inline-block;
   padding: 10px 20px;
-  background: #eaeaea;
+  background: #f9f2f2;
   border-left: 2px solid var(--primary-color);
   font-style: italic;
   font-size: 22px
@@ -746,16 +746,21 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  /* font-family: playfair display, serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
   display: inherit;
-  line-height: 1.5
+  line-height: 1.5 */
 }
 
 .page-title-alt {
-  padding: 350px 0 70px
+  padding: 21em 0 4.37em
+}
+@media(max-width:991px) {
+  .page-title-alt {
+    padding: 11.25em 0 2.5em
+  }
 }
 
 .border-thick {
@@ -816,7 +821,12 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px
+  padding: 14em 0 9.0em
+}
+@media(max-width:991px) {
+  .page-title {
+    padding: 10em 0 1em
+  }
 }
 
 .page-title .container {

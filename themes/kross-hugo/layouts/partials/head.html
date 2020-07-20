@@ -11,6 +11,7 @@
   <style>
     :root{
       --primary-color:{{ site.Params.theme_color }};
+      --bg-primary-color:{{ site.Params.bg_primary_color}};
     }
   </style>
 
@@ -24,8 +25,10 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ `images/favicon/favicon.png/apple-touch-icon.png` | absURL }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ `images/favicon/favicon-32x32.png` | absURL }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ `images/favicon/favicon-16x16.png` | absURL }}">
+  <link rel="manifest" href="{{ `images/favicon/site.webmanifest` | absURL }}">
 
   {{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
