@@ -11,16 +11,16 @@ Al final, muchos de nosotros estamos hartos de encontrarnos contenedores de Goog
 
 Por eso, si tocas o juegas con Google Tag Manager siempre debemos tener en cuenta los siguientes principios técnicos que, aunque no son propios de la plataforma y a muchos de vosotros quizás ya os suenan, sí que debemos tenerlos siempre presente ante cualquier implementación que debamos abordar en nuestro contenedor de GTM.
 
-### DRY (Don't Repeat Yourself)
+- **DRY** (Don't Repeat Yourself)
 
 Se debe de tratar, siempre que se pueda, reutilizar las etiquetas, los triggers y las variables. Para ello hay que hacerlas genéricas y escalables.
 De este modo el contenedor será más ligero, más limpio y más legible. Esto mejorará el rendimiento, la depuración y el mantenimiento.
 
-### KISS (Keep It Simple Stupid)
+- **KISS** (Keep It Simple Stupid)
 
 Todo lo que se haga en GTM debe de tender a esta idea, cuanto más minimalista y sencillo sea, mejor.
 
-### YAGNI (You Ain't Gonna Need It)
+- **YAGNI** (You Ain't Gonna Need It)
 
 No se debe implementar algo si aún no va a tener un uso específico. Se ahorrará tiempo y esfuerzo.
 
@@ -28,8 +28,9 @@ Siguiendo este principio, mantener etiquetas, triggers o variables que no se est
 
 Otra opción sería mantener todo lo que consideremos interesante y útil en nuestro contenedor de recetas.
 
-### Boy Scout Rule
+- **Boy Scout Rule**
 
 Consiste, simplemente, en hacer lo mismo que ellos hacen cada vez que salen al campo: dejar la zona cuando se marchan un poquito mejor que cuando se la encontraron. Si algo se puede mejorar, debe mejorarse.
+
 
 Guardátelo en favoritos, quizás para la próxima que te pases por aquí te encuentres con algún principio nuevo que algún usuario dejó en los comentarios, que adaptamos de Simo Ahava o que pase los filtros de los editores como el _Principio de Austeridad_ o _Mariano Rajoy_, tú recorta siempre pero si lo haces que sea con principios. Acuérdate de recortar en lo que no aporte valor y no pensar en el Linkedn y la comisión.

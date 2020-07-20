@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Inicio"
-logo = ""
+logo = "images/logo/logo.png"
 # theme color
 theme_color = "#000"
 # contact info

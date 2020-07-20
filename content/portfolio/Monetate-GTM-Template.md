@@ -1,7 +1,7 @@
 ---
 title: "Monetate"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/monetate.jpg"
+image: "images/portfolio/monetate.png"
 client: "John Doe"
 project_url : "#"
 categories: ["branding"]

@@ -176,7 +176,7 @@ body {
 
 ol,
 ul {
-  list-style-type: none;
+  list-style-type: revert;
   margin: 0
 }
 
@@ -428,18 +428,18 @@ textarea.form-control {
 
 .navigation.nav-bg {
   background-color: var(--primary-color);
-  padding: 15px 100px
+  padding: 0px 100px
 }
 
 @media(max-width:991px) {
   .navigation.nav-bg {
-    padding: 15px 20px
+    padding: 0px 20px
   }
 }
 
 @media(max-width:991px) {
   .navigation {
-    padding: 20px;
+    padding: 0px;
     background: var(--primary-color)
   }
 }
