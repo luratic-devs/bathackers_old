@@ -5,15 +5,15 @@ work_process:
   item:
   - title : "Tiki-Data"
     icon : "images/icons/plan.png"
-    content : "Una filosofía."
+    content : "La filosofía."
     
   - title : "Datisfayer"
     icon : "images/icons/design.png"
-    content : "Somos a la conversión lo que el satisfayer fue a la masturbación femenina"
+    content : "El orgasmo en cada conversión."
     
-  - title : "Galegos"
+  - title : "Galidata"
     icon : "images/icons/print.png"
-    content : "Llevamos tatuado el depende en la piel y todo es cuestión de perspectiva y análisis."
+    content : "El depende como cuestión de perspectiva y análisis."
 
 
 # team

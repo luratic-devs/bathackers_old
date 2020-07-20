@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content: "Somos los Technical Analyst que Simo Ahava aún no reconoció como suyos."
+  content: "Somos BAT hackers o los technical analyst que Simo Ahava aún no reconoció como hijos suyos."
   button:
     enable : true
     label : "Nosotros"
@@ -14,7 +14,7 @@ about:
 # skill
 skill:
   enable : true
-  title : "Bat hackers Team"
+  title : "BAT hackers"
   item:
     - title : "Data Quality  (Defensa)" #//QA
       progress : "75%"

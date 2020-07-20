@@ -6,14 +6,15 @@ author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Somos los mediocentros de la analítica, amantes de la'tiki-data'.
+Somos los mediocentros de la analítica. 
 
 Somos impares, imparciales y felices. 
 
-Hacemos jugadas imposibles, construímos y soñamos. 
+Hacemos jugadas imposibles, soñamos y construímos. 
 
-Las microconversiones son uno de nuestros pilares básicos en la vida. Total, la macroconversión solo es el resultado de hacerlas escalables.
+Las microconversiones son uno de nuestros pilares básicos en la vida. Al final, la macroconversión es solo el resultado de hacerlas escalables.
 
 Vivimos en la pansexualidad 360º. 
 
 Somos equipo.
+
