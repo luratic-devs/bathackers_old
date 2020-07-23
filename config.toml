@@ -1,5 +1,6 @@
 # default configuration
 baseURL = "https://precariostecnicos.netlify.app/"
+languageCode = "es-ES"
 DefaultContentLanguage = "es"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -104,3 +105,6 @@ URL = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "#"
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
