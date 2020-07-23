@@ -24,14 +24,13 @@
 		    {{ if .IsHome }}'type2': 'home',{{ else if eq .Kind "taxonomy" }}'type2': 'tag',{{ else if eq .Type "page" }}'type2': 'page',{{ else }}'type2': 'post',{{ end }}
 		    'language': '{{ .Language }}',
             'description': '{{ .Description}}',
-            'dir': '{{ .Dir}}',
             'keywords': {{ .Keywords}}
         },
         'context': {
-            'build':{{ .Hugo.BuildDate }},
-            'commit':{{ .Hugo.CommitHash }},
-            'version': {{ .Hugo.Version }},
-            'environment': {{ .Hugo.Environment }}
+            'build':{{ hugo.BuildDate }},
+            'commit':{{ hugo.CommitHash }},
+            'version': {{ hugo.Version }},
+            'environment': {{ hugo.Environment }}
         }
 	 });
   </script> {{ end}}
