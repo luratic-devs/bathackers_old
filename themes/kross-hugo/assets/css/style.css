@@ -279,6 +279,24 @@ a:hover {
   color: #999 !important
 }
 
+.text-light-template {
+  color: #999 !important;
+  font-size: 1.25em;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+@media(max-width:991px) {
+  .text-light-template {
+    color: #999 !important;
+    font-size: 1em;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
 .mb-10 {
   margin-bottom: 10px !important
 }

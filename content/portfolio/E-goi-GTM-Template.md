@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/e-goi.png"
 client: "Bat Hackers"
 project_url : "#"
-categories: ["illustration"]
+categories: ["ANALYTICS"]
 description: "Analyze the behavior of customers who click on your email or website and interact with them!"
 draft: false
 ---
