@@ -2,7 +2,7 @@
 title: "Outbrain Enhanced"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/outbrain.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "Outbrain Pixel allows you to track conversions and create Custom Audiences on your web site. This version allow advanced options."

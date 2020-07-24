@@ -2,7 +2,7 @@
 title: "Salesforce Audience Studio"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/salesforceaudiencestudio.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "Formerly Salesforce DMP, Audience Studio can help you gain deep insights by unifying and capturing your data to strengthen customer relationships across every touchpoint with powerful data management."

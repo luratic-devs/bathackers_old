@@ -2,7 +2,7 @@
 title: "Lucky Orange"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/lucky-orange.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["illustration","development"]
 description: "Take a peek behind the digital curtain to see how your visitors use your site and turn them into customers and clients."

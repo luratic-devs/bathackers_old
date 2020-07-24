@@ -2,7 +2,7 @@
 title: "Bluekai Oracle Dmp"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/bluekai.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "BlueKai is the industry’s leading cloud-based big data platform that enables marketing organizations to personalize online, offline, and mobile marketing campaigns with richer and more-actionable info."

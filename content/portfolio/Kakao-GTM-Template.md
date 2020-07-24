@@ -2,7 +2,7 @@
 title: "Kakao"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/kakao.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["design"]
 description: "KakaoTalk, South Korea's most popular messaging platform, back in 2010. Then Kakao branched out, adding a social network."

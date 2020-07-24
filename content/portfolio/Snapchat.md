@@ -2,7 +2,7 @@
 title: "Snapchat"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/snapchat.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "The Snap Pixel is a piece of JavaScript code that helps Advertisers measure the cross-device impact of Campaigns. Advertisers will be able to see how many Snapchatters take action on their website(s)."

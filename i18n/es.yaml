@@ -6,3 +6,12 @@
   translation: Formulario de contacto
 - id: read_more
   translation: Lee más
+- id: creator_template
+  translation: Desarrollador
+- id: categories_template
+  translation: Categorías
+- id: links_template
+  translation: Plantilla   
+- id: date_template
+  translation: Fecha   
+  

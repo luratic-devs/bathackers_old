@@ -2,7 +2,7 @@
 title: "Pushnews"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/pushnews.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "Pushnews is a Web Push Notifications provider. With Push Notifications you can increase your website traffic by bringing your users back."

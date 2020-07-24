@@ -2,7 +2,7 @@
 title: "FitAnalytics - Fit Finder"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/fitanalytics.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["design"]
 description: "Fit Finder is an intuitive size advisor that delivers certainty for shoppers and captures crucial customer intelligence for apparel firms."

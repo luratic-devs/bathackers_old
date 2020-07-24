@@ -2,7 +2,7 @@
 title: "Ligatus"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/ligatus.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "Ligatus, the leading Native Advertising Solutions for Publishers, Advertisers and Programmatic buyers that offers high quality and high performance results."

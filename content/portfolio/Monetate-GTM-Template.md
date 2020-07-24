@@ -2,7 +2,7 @@
 title: "Monetate"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/monetate.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "The world's most trusted testing, optimisation, and personalisation platform. Built for marketers. Real-time data. Increase lifetime value. Easy-to-use interface. Individualised messaging. Make inform"

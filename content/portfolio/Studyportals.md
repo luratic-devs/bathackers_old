@@ -2,7 +2,7 @@
 title: "Studyportals"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/snapchat.png"
-client: "John Doe"
+client: "Bat Hackers"
 project_url : "#"
 categories: ["branding"]
 description: "Receive data insights about what international students are interested in, what information they need, how they search for their degree options, where they come from and more."

@@ -2,24 +2,36 @@
 title: "TikTok"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/tiktok.png"
-client: "John Doe"
-project_url : "#"
-categories: ["branding"]
+client: "Bat Hackers"
+project_url : "[GitHub](https://github.com/precariostecnicos/TikTok)
+
+
+[GTM Template Gallery](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/TikTok)"
+categories: ["ANALYTICS", "MARKETING", "SOCIAL"]
 description: "TikTok is the leading destination for short-form mobile video, providing content that is exciting, spontaneous, and genuine."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+###   Configuración
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Plantilla de configuración para Google Tag Manager para configurar el píxel de Ads de la red social **TikTok**.
+
+Sería tan sencillo como añadir esta [plantilla de GTM](https://tagmanager.google.com/gallery/#/owners/precariostecnicos/templates/TikTok) a vuestro espacio de trabajo. Una vez añadida la template o plantilla ir a *Etiquetas > nueva* buscar la etiqueta de *TikTok*  y reemplazar el valor ***id*** que aparece en la captura que se muestra a continuación con vuestro id correspondiente.
+
+- Configuración etiqueta TikTok:
+![Configuración plantilla personalizada píxel TikTok](https://user-images.githubusercontent.com/54624019/81506595-bc2f1100-92f7-11ea-9184-9c4791a42249.png).
+
+Para testear la herramienta una de las formas más sencillas sería hacerlo con su propia [extensión para chrome](https://chrome.google.com/webstore/detail/tiktok-pixel-helper/aelgobmabdmlfmiblddjfnjodalhidnn). 
+
+> #### Prueba, prueba y prueba!
+>Lo complicado muchas veces no es implementar, es probar lo implementado. 
+>
+>Tanto esta plantilla como todo lo que publicas en GTM es código que directamente se propaga a tu web o app. 
+Código que puede interferir de forma anómala, provocando múltiples catástrofes. No es habitual pero no te confies **nunca**. Por eso, haz al menos un *flujo completo* en tu web o app y minimiza riesgos. 
+>
+> Con GTM siempre mucho **sentidiño**.
+
+### ```Atención!```
+Somos precarios técnicos que buscan ser **BatHackers**. Por eso, te estaremos eternamente agradecidos de que nos apadrines como técnicos: 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?)

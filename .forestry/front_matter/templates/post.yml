@@ -11,7 +11,7 @@ fields:
 - type: text
   name: author
   label: author
-  description: 'Ex: John Doe'
+  description: 'Ex: Bat Hackers'
 - type: file
   name: image_webp
   label: image webp
